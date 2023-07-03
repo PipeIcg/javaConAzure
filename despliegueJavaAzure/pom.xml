@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>despliegueJavaAzure</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>despliegueJavaAzure</name>
 	<description>Proyecto para desplegar en azure</description>
 	<properties>

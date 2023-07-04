@@ -8,6 +8,6 @@ public class DemoControlador {
 
 	@GetMapping("/mensaje")
 	public String mensaje() {
-		return "Hola mundo con azure :D";
+		return "Hola mundo con azure";
 	}
 }
